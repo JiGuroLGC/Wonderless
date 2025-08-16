@@ -1,28 +1,25 @@
 <div align="center">
 <!-- Title: -->
-  <a href="https://github.com/JiGuroLGC/Wonderless/">
+  <a href="https://github.com/JiGuroLGC/Wonderless">
     <img src="https://gitee.com/jiguro/wonderless/raw/master/pictureicon.png">
   </a>
-  <h1><a href="https://github.com/JiGuroLGC/Wonderless/">不奇妙应用</a></h1>
+  <h1><a href="https://github.com/JiGuroLGC/Wonderless">不奇妙应用</a></h1>
   <h3>对奇妙应用全家桶进行一些优化和破解</h3>
 <!-- Labels: -->
   <!-- First row: -->
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully/blob/main/README.md">
-    <img src="https://img.shields.io/github/license/JiGuroLGC/Listen_Carefully?color=pink&logo=bookstack&logoColor=pink" height="20" alt="license">
-  </a>
   <a href="https://github.com/pre-commit/pre-commit">
     <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white" height="20" alt="pre-commit">
   </a>
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully">
-    <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Listen_Carefully" height="20" alt="repo-size">
+  <a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://img.shields.io/github/repo-size/JiGuroLGC/Wonderless" height="20" alt="repo-size">
   </a>
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully">
+  <a href="https://github.com/JiGuroLGC/Wonderless">
     <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3" height="20" alt="Contributions Welcome">
   </a>
-  <a href="https://github.com/JiGuroLGC/Listen_Carefully/releases">
+  <a href="https://github.com/JiGuroLGC/Wonderless/releases">
     <img src="https://img.shields.io/badge/download-lastest_now-white?branch=master&color=FF90E8" height="20" alt="download">
   </a>
-  <a href="https://jigurolgc.github.io/Listen_Carefully">
+  <a href="https://jigurolgc.github.io">
     <img alt="Page_Online" src="https://img.shields.io/badge/webpage-online-white?branch=master&color=25A162">
   </a>
 <!-- Short description: -->
