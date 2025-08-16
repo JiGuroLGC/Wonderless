@@ -1,0 +1,5 @@
+{
+  "versionName": "2.1.8",
+  "updateLog": "1. 美化了模块主页\n2. 精简了应用体积\n3. 增加了安卓清理君、奇妙扫描、奇妙工具箱、朝花夕拾等4个应用的hook功能\n4. 提高了应用防御能力，增加签名校验",
+  "apkUrl": "https://gitee.com/jiguro/wonderless/releases/download/V2.1.8/%E4%B8%8D%E5%A5%87%E5%A6%99%E5%BA%94%E7%94%A8_2.1.8.apk"
+}
