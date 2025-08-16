@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/download-lastest_now-white?branch=master&color=FF90E8" height="20" alt="download">
   </a>
   <a href="https://jigurolgc.github.io">
-    <img alt="Page_Online" src="https://img.shields.io/badge/webpage-online-white?branch=master&color=25A162">
+    <img alt="Page_Online" src="https://img.shields.io/badge/blog-online-white?branch=master&color=25A162">
   </a>
 <!-- Short description: -->
 </div>
@@ -90,7 +90,7 @@
 ## 开始使用
 
 1. 下载  
-进入我们的[仓库](https://github.com/JiGuroLGC/Listen_Carefully) ，打开 `release` 页面，下载符合您系统环境的[最新发行版软件](https://github.com/JiGuroLGC/Listen_Carefully/releases)或者前往 **LSPosed** 官方页面进行下载。   
+进入我们的[仓库](https://github.com/JiGuroLGC/Wonderless) ，打开 `release` 页面，下载符合您系统环境的[最新发行版软件](https://github.com/JiGuroLGC/Wonderless/releases)或者前往 **LSPosed** 官方页面进行下载。   
 如果您是特殊区域用户，因为网络环境而无法访问，请您转到其他问题查看解答。
 
 2. 安装  
@@ -108,7 +108,7 @@ A  : **不奇妙应用** 由 **AIDE Pro** 开发，在 *Android 10* 、 *Android
 A : 因为 **不奇妙应用** 才刚刚开始开发，我们由于工作的原因，我们只能挤出周末的空闲时间来进行代码编写。但是对于日常使用来说，这些功能是完全够用的。
    
 3. Q : 为什么 **不奇妙应用** 在作用域软件更新后，Hook 功能会失效？  
-A : 因为作用域软件对方法和类进行了一定强度的混淆，我们无法保证更新的软件仍适配于原先的 Hook 方法。请时常打开软件接收更新、查看 **LSPosed** 的更新页面或查看 Github `release` 页面的[最新发行版软件](https://github.com/JiGuroLGC/Listen_Carefully/releases)。   
+A : 因为作用域软件对方法和类进行了一定强度的混淆，我们无法保证更新的软件仍适配于原先的 Hook 方法。请时常打开软件接收更新、查看 **LSPosed** 的更新页面或查看 Github `release` 页面的[最新发行版软件](https://github.com/JiGuroLGC/Wonderless/releases)。   
     
 4. Q : 在更新或逆向修改 **不奇妙应用** 后，为什么会提示“安全检测异常”的弹窗？  
 A : 您触发了 **不奇妙应用** 的完整性校验。为了防止不法分子二改软件，我们设置了低强度的完整性校验，包括签名校验和其他校验，您可能要注意您是否下到的是否是正版软件。由于某些未知问题，如果在更新时触发，那么您只需清空软件的所有存储，再次打开软件尝试即可。
@@ -141,5 +141,3 @@ A  : 没关系，我们为您准备了备用的下载链接，我们保证备用
 
 电子邮箱 : jigurolui@gmail.com / JiGuroLiu@qq.com  
 我们希望成为一个优秀的开发团队，持续为大家输出优秀的作品，如果您有什么改进意见，请您直接提出来，我们会继续加油。让我们在追梦的道路上不懈奋斗、砥砺前行！感谢大家的帮助与支持！
-
-
