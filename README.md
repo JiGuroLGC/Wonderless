@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/pictureicon.png">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/pictureicon.png">
   </a>
   <h1><a href="https://github.com/JiGuroLGC/Wonderless">不奇妙应用</a></h1>
   <h3>对奇妙应用全家桶进行一些优化和破解</h3>
@@ -42,6 +42,12 @@
 
 本人是**奇妙应用**老用户，对**奇妙应用**的广告和投币机制较为反感，于是开发了这个模块。考虑到开发成本，于是又添加了另外四个软件的 Hook 支持。
 
+<div align="center">
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/menu.jpg">
+  </a>
+ </div>
+
 ## 详细适配
 
 **奇妙应用**
@@ -53,6 +59,16 @@
 - 去除所有广告
 - 硬币数锁定114514（本地自慰）
 
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao1.jpg">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao2.jpg">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao3.jpg">
+  </a>
+
 **安卓清理君**
 *支持v3.8.7版本*
 
@@ -60,6 +76,10 @@
 - 去除所有广告
 - 免登录使用
 - 解锁永久会员
+
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qingli.jpg">
+  </a>
 
 **朝花夕拾**
 *支持v1.3.4版本*
@@ -69,6 +89,10 @@
 - 免登录使用
 - 解锁永久会员
 
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/xishi.jpg">
+  </a>
+
 **奇妙扫描**
 *支持v1.0.7版本*
 
@@ -77,6 +101,10 @@
 - 免登录使用
 - 解锁永久会员
 
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/scanner.jpg">
+  </a>
+
 **奇妙工具箱**
 *支持v0.4.1版本*
 
@@ -84,6 +112,10 @@
 - 去除广告
 - 免登录使用
 - 解锁永久会员
+
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/tools.jpg">
+  </a>
 
 > 此软件很多VIP功能在云端执行，无法完全破解
 
@@ -95,6 +127,12 @@
 
 2. 安装  
 在设备上安装安装包，给予程序所需要的权限，同意 **《软件使用声明》** ，然后在模块管理器中启用模块并勾选模块作用域。
+
+<div align="center">
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/lsposed.jpg">
+  </a>
+ </div>
 
 3. 运行  
 运行作用域软件 ，然后尽情享受吧 ！
