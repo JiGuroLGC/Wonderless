@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.magicalstory.AppStore</item>
+        <item>com.magicalstory.cleaner</item>
+        <item>com.magicalstory.days</item>
+        <item>com.magicalstory.scanner</item>
+        <item>com.magicalstory.toolbox</item>
+        <!-- 目标 App 包名 -->
+    </string-array>
+</resources>

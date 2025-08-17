@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jiguro.wonderless" >
+<uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+		android:resizeableActivity = "true">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+			android:name="xposedmodule"
+			android:value="true"/>
+		<meta-data
+			android:name="xposeddescription"
+			android:value="一个解锁优化奇妙应用及其全系列功能的模块，由JiGuro制作"/>
+        <meta-data
+            android:name="xposedscope"
+            android:resource="@array/xposed_scope" />
+		<meta-data
+   android:name="xposedminversion"
+			android:value="54"/>
+    </application>
+</manifest>
