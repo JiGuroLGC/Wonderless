@@ -4,7 +4,9 @@
     <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/pictureicon.png">
   </a>
   <h1><a href="https://github.com/JiGuroLGC/Wonderless">不奇妙应用</a></h1>
+  
   <h3>对奇妙应用全家桶进行一些优化和破解</h3>
+  
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://github.com/JiGuroLGC/Wonderless/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/JiGuroLGC/Wonderless?label=stars"></a>
@@ -23,7 +25,11 @@
   <a href="https://jigurolgc.github.io">
     <img alt="Page_Online" src="https://img.shields.io/badge/blog-online-white?branch=master&color=25A162">
   </a>
+     <a href="https://github.com/JiGuroLGC/Wonderless">
+        <img src="https://img.shields.io/badge/Github-Wonderless-yellow.svg" alt="socialify"/>
+    </a>
 <!-- Short description: -->
+
 <p>
    <b>支持框架 | <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> | <a href="https://github.com/LSPosed/LSPatch">LSPatch</a>
 </b>
@@ -31,6 +37,12 @@
 </div>
 
 ## 介绍
+
+<p align="center">
+    <a href="https://github.com/JiGuroLGC/Wonderless">
+        <img src="https://socialify.git.ci/JiGuroLGC/Wonderless/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto" alt="socialify"/>
+    </a>
+</p>
 
 **不奇妙应用** 是一款解锁优化奇妙应用及其全系列功能的模块，旨在使软件的使用更加方便简洁。
 
