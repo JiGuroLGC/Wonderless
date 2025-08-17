@@ -7,6 +7,7 @@
   <h3>对奇妙应用全家桶进行一些优化和破解</h3>
 <!-- Labels: -->
   <!-- First row: -->
+  <a href="https://github.com/JiGuroLGC/Wonderless/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/JiGuroLGC/Wonderless?label=stars"></a>
   <a href="https://github.com/pre-commit/pre-commit">
     <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white" height="20" alt="pre-commit">
   </a>
