@@ -23,6 +23,9 @@
     <img alt="Page_Online" src="https://img.shields.io/badge/blog-online-white?branch=master&color=25A162">
   </a>
 <!-- Short description: -->
+<p>
+   <b>支持框架 | <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> | <a href="https://github.com/LSPosed/LSPatch">LSPatch</a>
+</p>
 </div>
 
 ## 介绍
@@ -151,7 +154,10 @@ A : 因为作用域软件对方法和类进行了一定强度的混淆，我们�
 4. Q : 在更新或逆向修改 **不奇妙应用** 后，为什么会提示“安全检测异常”的弹窗？  
 A : 您触发了 **不奇妙应用** 的完整性校验。为了防止不法分子二改软件，我们设置了低强度的完整性校验，包括签名校验和其他校验。如果您触发了完整性校验，那么您应意识到您极大可能下载的是盗版软件。由于某些未知问题，如果在更新时触发，那么您只需清空软件的所有存储，再次打开软件尝试即可。
 
-5. Q : 我是特殊区域用户，访问有问题怎么办 ？  
+5. Q : 为何在用一些免 root 框架时，作用域软件功能可能失效甚至闪退？  
+A : 由于奇妙应用有 **360加固** ，所以当使用免 root 框架时，只要修改了安装包，作用域应用就会闪退。除奇妙应用外的所有应用理论上都支持免 root 框架。但是当作用域软件更新时，由于类名和方法名的变化，功能也可能失效。
+
+6. Q : 我是特殊区域用户，访问有问题怎么办 ？  
 A  : 没关系，我们为您准备了备用的下载链接，我们保证备用链接下载的软件和发行版是完全一样的。而且我们在 Gitee 等开源社区也有我们的仓库, 您可以移步到其他开源社区下载 。  
    *Gitee开源社区仓库链接 : https://gitee.com/jiguro/wonderless*  
    *备用链接 : https://jiguro.lanzouw.com/iD316338zt0j 密码：gw8u*
