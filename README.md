@@ -199,3 +199,7 @@ A  : 没关系，我们为您准备了备用的下载链接，我们保证备用
 
 电子邮箱 : jigurolui@gmail.com / JiGuroLiu@qq.com  
 我们希望成为一个优秀的开发团队，持续为大家输出优秀的作品，如果您有什么改进意见，请您直接提出来，我们会继续加油。让我们在追梦的道路上不懈奋斗、砥砺前行！感谢大家的帮助与支持！
+
+   <a href="https://github.com/JiGuroLGC/Wonderless">
+        <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/reward.png" alt="socialify"/>
+    </a>
