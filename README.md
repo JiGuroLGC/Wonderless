@@ -25,6 +25,7 @@
 <!-- Short description: -->
 <p>
    <b>支持框架 | <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> | <a href="https://github.com/LSPosed/LSPatch">LSPatch</a>
+</b>
 </p>
 </div>
 
