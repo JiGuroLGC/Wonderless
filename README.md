@@ -1,8 +1,8 @@
 <div align="center">
 <!-- Title: -->
-  <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/pictureicon.png">
-  </a>
+
+  <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/pictureicon.png"
+     width="150" height="150" alt="Wonderless Icon">
   <h1><a href="https://github.com/JiGuroLGC/Wonderless">不奇妙应用</a></h1>
   
   <h3>对奇妙应用全家桶进行一些优化和破解</h3>
