@@ -8,8 +8,8 @@ android {
         applicationId "com.jiguro.wonderless"
         minSdkVersion 21
         targetSdkVersion 26
-        versionCode 20250811
-        versionName "2.1.8"
+        versionCode 20250901
+        versionName "2.1.9"
     }
 
     buildTypes {

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main"
+        android:icon="@drawable/ic_menu_more"
+        android:title="更多选项"
+        android:showAsAction="always">
+        <menu>
+            <!-- 添加设置菜单项 -->
+            <item
+                android:id="@+id/menu_settings"
+                android:title="其他设置"/>
+                
+            <item
+                android:id="@+id/menu_github"
+                android:title="模块Github仓库"/>
+                
+            <item
+                android:id="@+id/menu_gitee"
+                android:title="模块Gitee仓库"/>
+                
+            <item
+                android:id="@+id/menu_exit"
+                android:title="退出模块"/>
+        </menu>
+    </item>
+</menu>

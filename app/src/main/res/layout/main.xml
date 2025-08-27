@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_scrollview"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F5F7FA"
-    android:fillViewport="true">
+    android:fillViewport="true"
+    android:fitsSystemWindows="true">   <!-- 让系统预留空间，防止顶栏遮住控件 -->
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -11,42 +13,65 @@
         android:orientation="vertical"
         android:padding="16dp">
 
-        <!-- 头部区域 -->
+        <!-- 头部区域，居中显示 -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
+            android:gravity="center"
             android:paddingVertical="20dp">
 
-            <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:src="@drawable/ic_launcher" />
-
             <LinearLayout
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_marginStart="16dp"
-                android:orientation="vertical">
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="不奇妙应用"
-                    android:textColor="#1A237E"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_launcher" />
 
-                <TextView
-                    android:layout_width="match_parent"
+                <LinearLayout
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="对奇妙全家桶进行一些优化和破解"
-                    android:textColor="#546E7A"
-                    android:textSize="14sp"
-                    android:paddingTop="4dp" />
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="不奇妙应用"
+                        android:textColor="#1A237E"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="对奇妙全家桶进行一些优化和破解"
+                        android:textColor="#546E7A"
+                        android:textSize="14sp"
+                        android:paddingTop="4dp" />
+                </LinearLayout>
             </LinearLayout>
         </LinearLayout>
+
+        <!-- 一言 -->
+        <TextView
+            android:id="@+id/hitokoto_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="永远相信美好的事情即将发生..."
+            android:textColor="#78909C"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:paddingHorizontal="32dp"
+            android:paddingVertical="12dp"
+            android:layout_marginBottom="16dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/quote_background"
+            android:minWidth="120dp" />
 
         <!-- 支持的应用标题 -->
         <TextView
@@ -75,6 +100,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
+                    android:id="@+id/icon_appstore"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:src="@drawable/ic_appstore" />
@@ -180,6 +206,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
+                    android:id="@+id/icon_cleaner"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:src="@drawable/ic_cleaner" />
@@ -276,6 +303,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
+                    android:id="@+id/icon_days"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:src="@drawable/ic_days" />
@@ -372,6 +400,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
+                    android:id="@+id/icon_scanner"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:src="@drawable/ic_scanner" />
@@ -468,6 +497,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
+                    android:id="@+id/icon_toolbox"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:src="@drawable/ic_toolbox" />
@@ -575,7 +605,7 @@
             android:padding="24dp"
             android:gravity="center">
 
-            <!-- 作者头像（圆形） - 修正了标签名称 -->
+            <!-- 作者头像-->
             <ImageView
                 android:id="@+id/iv_avatar"
                 android:layout_width="100dp"
@@ -637,7 +667,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="不奇妙应用 v2.1.8"
+                android:text="不奇妙应用 v2.1.9"
                 android:textColor="#78909C"
                 android:textSize="12sp"/>
 

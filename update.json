@@ -1,0 +1,5 @@
+{
+  "versionName": "2.1.9",
+  "updateLog": "1. 引入了设置界面，添加更新控制、去除Hook提示、使用Root权限运行等一系列功能\n2. 对奇妙应用新增了模块设置，支持自定义粉丝数、付费数、关注数、等级，支持一键自动签到\n3. 美化了模块主页\n4. 添加了一言诗句支持\n5. 重构代码，更加清晰流畅",
+  "apkUrl": "https://gitee.com/jiguro/wonderless/releases/download/V2.1.9/%E4%B8%8D%E5%A5%87%E5%A6%99%E5%BA%94%E7%94%A8_2.1.9.apk"
+}

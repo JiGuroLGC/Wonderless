@@ -1,34 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jiguro.wonderless" >
-<uses-permission android:name="android.permission.INTERNET"/>
+    package="com.jiguro.wonderless">
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-		android:resizeableActivity = "true">
+        android:resizeableActivity="true">
+        
+        <!-- 主活动 -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/app_name" >
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="de.robv.android.xposed.category.MODULE_SETTINGS" />
             </intent-filter>
         </activity>
+        
+        <!-- 桌面图标别名 - 仅用于桌面启动 -->
+        <activity-alias
+            android:name=".LauncherAlias"
+            android:targetActivity=".MainActivity"
+            android:exported="true"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:enabled="true">
+            <!-- 桌面启动器专用入口 -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+        
+        <!-- 设置活动 -->
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="true"
+            android:label="模块设置"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <!-- Xposed 模块元数据 -->
         <meta-data
-			android:name="xposedmodule"
-			android:value="true"/>
-		<meta-data
-			android:name="xposeddescription"
-			android:value="一个解锁优化奇妙应用及其全系列功能的模块，由JiGuro制作"/>
+            android:name="xposedmodule"
+            android:value="true"/>
+        <meta-data
+            android:name="xposeddescription"
+            android:value="对奇妙全家桶进行一些优化和破解"/>
         <meta-data
             android:name="xposedscope"
             android:resource="@array/xposed_scope" />
-		<meta-data
-   android:name="xposedminversion"
-			android:value="54"/>
+        <meta-data
+            android:name="xposedminversion"
+            android:value="54"/>
+            
     </application>
 </manifest>
