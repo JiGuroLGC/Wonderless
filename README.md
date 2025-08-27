@@ -64,6 +64,14 @@
     <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/menu.png">
   </a>
  </div>
+ 
+在 **V2.1.9** 版本中，我们首次引入了设置界面，支持更多的模块定制化，功能如图所示：
+
+<div align="center">
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/msettings.png">
+  </a>
+ </div>
 
 ## 详细适配
 
@@ -74,7 +82,8 @@
 - 解锁Premium会员权限
 - 附件免硬币查看
 - 去除所有广告
-- 硬币数锁定114514（本地自慰）
+- 支持自定义硬币、粉丝、关注、付费、等级
+- 支持一键自动签到
 
 <a href="https://github.com/JiGuroLGC/Wonderless">
     <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao1.png">
@@ -84,6 +93,15 @@
   </a>
   <a href="https://github.com/JiGuroLGC/Wonderless">
     <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao3.png">
+  </a>
+  
+由于 **奇妙应用** 功能较多，我们为用户提供了一个设置对话框。只需打开奇妙应用的设置页面，设置对话框就会自动弹出。
+
+<a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/settings1.png">
+  </a>
+  <a href="https://github.com/JiGuroLGC/Wonderless">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/settings2.png">
   </a>
 
 **安卓清理君**
@@ -168,13 +186,16 @@ A : 因为作用域软件对方法和类进行了一定强度的混淆，我们�
 4. Q : 在更新或逆向修改 **不奇妙应用** 后，为什么会提示“安全检测异常”的弹窗？  
 A : 您触发了 **不奇妙应用** 的完整性校验。为了防止不法分子二改软件，我们设置了低强度的完整性校验，包括签名校验和其他校验。如果您触发了完整性校验，那么您应意识到您极大可能下载的是盗版软件。由于某些未知问题，如果在更新时触发，那么您只需清空软件的所有存储，再次打开软件尝试即可。
 
-5. Q : 为何在用一些免 root 框架时，作用域软件功能可能失效甚至闪退？  
-A : 由于奇妙应用有 **360加固** ，所以当使用免 root 框架时，只要修改了安装包，作用域应用就会闪退。除奇妙应用外的所有应用理论上都支持免 root 框架。但是当作用域软件更新时，由于类名和方法名的变化，功能也可能失效。
+5. Q : 为何在用一些免 Root 框架时，作用域软件功能可能失效甚至闪退？  
+A : 由于奇妙应用有 **360加固** ，所以当使用免 Root 框架时，只要修改了安装包，作用域应用就会闪退。除奇妙应用外的所有应用理论上都支持免 Root 框架。但是当作用域软件更新时，由于类名和方法名的变化，功能也可能失效。
 
-6. Q : 我是特殊区域用户，访问有问题怎么办 ？  
+6. Q : 为什么在奇妙应用的设置对话框中，或在模块本身的设置页面中，保存设置后仍未生效？  
+A : 您需要检查您是否给予了 **不奇妙应用** 和作用域应用需要的权限，比如 **Root 权限** 、 **文件读写权限** 等。因为设置需要存储在公共目录或私有目录，以便软件进行读取。
+
+7. Q : 我是特殊区域用户，访问有问题怎么办 ？  
 A  : 没关系，我们为您准备了备用的下载链接，我们保证备用链接下载的软件和发行版是完全一样的。而且我们在 Gitee 等开源社区也有我们的仓库, 您可以移步到其他开源社区下载 。  
    *Gitee开源社区仓库链接 : https://gitee.com/jiguro/wonderless*  
-   *备用链接 : https://jiguro.lanzouw.com/iD316338zt0j 密码：gw8u*
+   *备用链接 : https://jiguro.lanzouw.com/iWOsn34nqu6d 密码：8888*
 
 ## 免责声明
 
