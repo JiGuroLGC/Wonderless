@@ -171,9 +171,18 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="✓ 硬币数锁定114514"
+                    android:text="✓ 支持自定义硬币、粉丝、关注、付费、等级"
+                    android:textColor="#4CAF50"
+                    android:textSize="14sp"
+                    android:paddingBottom="4dp"/>
+                    
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="✓ 支持一键自动签到"
                     android:textColor="#4CAF50"
                     android:textSize="14sp"/>
+                    
             </LinearLayout>
 
             <!-- 展开/折叠按钮 -->
