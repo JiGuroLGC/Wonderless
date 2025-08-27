@@ -61,7 +61,7 @@
 
 <div align="center">
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/menu.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/menu.png">
   </a>
  </div>
 
@@ -77,13 +77,13 @@
 - 硬币数锁定114514（本地自慰）
 
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao1.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao1.png">
   </a>
   <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao2.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao2.png">
   </a>
   <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao3.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qimiao3.png">
   </a>
 
 **安卓清理君**
@@ -95,7 +95,7 @@
 - 解锁永久会员
 
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qingli.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/qingli.png">
   </a>
 
 **朝花夕拾**
@@ -107,7 +107,7 @@
 - 解锁永久会员
 
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/xishi.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/xishi.png">
   </a>
 
 **奇妙扫描**
@@ -119,7 +119,7 @@
 - 解锁永久会员
 
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/scanner.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/scanner.png">
   </a>
 
 **奇妙工具箱**
@@ -131,7 +131,7 @@
 - 解锁永久会员
 
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/tools.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/tools.png">
   </a>
 
 > 此软件很多VIP功能在云端执行，无法完全破解
@@ -147,7 +147,7 @@
 
 <div align="center">
 <a href="https://github.com/JiGuroLGC/Wonderless">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/lsposed.jpg">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/lsposed.png">
   </a>
  </div>
 
