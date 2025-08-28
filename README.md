@@ -195,7 +195,7 @@ A : 您需要检查您是否给予了 **不奇妙应用** 和作用域应用需�
 7. Q : 我是特殊区域用户，访问有问题怎么办 ？  
 A  : 没关系，我们为您准备了备用的下载链接，我们保证备用链接下载的软件和发行版是完全一样的。而且我们在 Gitee 等开源社区也有我们的仓库, 您可以移步到其他开源社区下载 。  
    *Gitee开源社区仓库链接 : https://gitee.com/jiguro/wonderless*  
-   *备用链接 : https://jiguro.lanzouw.com/iWOsn34nqu6d 密码：8888*
+   *备用链接 : https://jiguro.lanzouw.com/inn5g34riv8h 密码：8888*
 
 ## 免责声明
 
