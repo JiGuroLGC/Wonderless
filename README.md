@@ -224,7 +224,7 @@ A : 由于奇妙应用有 **360加固** ，所以当使用免 Root 框架时，�
 A : 您需要检查您是否给予了 **不奇妙应用** 和作用域应用需要的权限，比如 **Root 权限** 、 **文件读写权限** 等。因为设置需要存储在公共目录或私有目录，以便软件进行读取。
 
 7. Q : 我是特殊区域用户，访问有问题怎么办 ？  
-A  : 没关系，我们为您准备了备用的下载链接，我们保证备用链接下载的软件和发行版是完全一样的。而且我们在 Gitee 等开源社区也有我们的仓库, 您可以前往[发行渠道](#release)，移步到其他开源社区下载 。
+A  : 没关系，我们为您准备了备用的下载链接，我们保证备用链接下载的软件和发行版是完全一样的，而且我们在 Gitee 等开源社区也有我们的仓库。您可以前往[发行渠道](#release)，移步到其他渠道下载 。
 
 ## 免责声明
 
@@ -254,3 +254,5 @@ A  : 没关系，我们为您准备了备用的下载链接，我们保证备用
    <a href="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/reward.png">
         <img src="https://raw.githubusercontent.com/JiGuroLGC/Wonderless/main/img/reward.png" alt="socialify"/>
     </a>
+
+版权所有 © 2025 JiGuro
